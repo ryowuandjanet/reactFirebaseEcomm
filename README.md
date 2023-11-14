@@ -1,3 +1,3 @@
 # reactFirebaseEcomm 
-# client/ >> npm start
-# server/ >> npm start
+ client/ >> npm start
+ server/ >> npm start
